@@ -1,0 +1,16 @@
+.frameActionsTop { height: 12px; }
+.frameActionsTop:hover { background: #CCC; }
+.condensed .entryholder .u100entry { margin-left: 0 !important; margin-right: 0 !important; max-width: none !important; }
+.entryBody { max-width: none !important; }
+.topWikiWidget { display: none; }
+#feedlyTabsHolder div.simpleUnreadCount { padding-right: 0 !important; opacity: 0; font-family: Verdana, Geneva, sans-serif; font-weight: bold !important; }
+
+#mytab, #savedtab { display: none; } 
+
+.metadata { display: none; }
+.inlineFrame .u100entry .title { font-size: 14px !important; font-weight: bold !important; }
+.u100Entry .title { margin-bottom: 6px; }
+
+.entryBody { font-size: 12px; }
+h1 .hAction,
+h1 .hhint { display: none !important; }
